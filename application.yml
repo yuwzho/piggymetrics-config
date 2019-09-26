@@ -18,8 +18,8 @@ security:
     resource:
       user-info-uri: http://auth-service/uaa/users/current
 
-eureka:
-  client:
-     serviceUrl:
-        defaultZone: https://localhost:8761/eureka/
+# eureka:
+#   client:
+#      serviceUrl:
+#         defaultZone: https://localhost:8761/eureka/
    
